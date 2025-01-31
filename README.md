@@ -24,3 +24,7 @@ infy app challenge(btesy david sam)
 ## Editor
 ** My role is the editor, I will help my team to fix the codes that are wrong **
 
+Social Issues:
+
+1. 
+
