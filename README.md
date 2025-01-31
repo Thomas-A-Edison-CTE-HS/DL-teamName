@@ -15,12 +15,12 @@ infy app challenge(btesy david sam)
 * Italic *
   *** Bold and italic ***
 
-  1. 
-
 
 
 
 
 
 # David Muratov
+## Editor
+** My role is the editor, I will help my team to fix the codes that are wrong **
 
