@@ -6,7 +6,7 @@ infy app challenge(btesy david sam)
 
 # Betsy 
 ## editor
-** To edit my code **
+**To edit my code**
 
 1.school
 2.grounp projects
