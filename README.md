@@ -9,7 +9,13 @@ infy app challenge(btesy david sam)
 3. the social issue is wild fier 
 
 
+# Samuel Mina
+## Moderator
+** My role is the moderator, i would like to help with whever is coding or coming up with ideas as well as make sure everything is in order and reviewing the final product **
+* Italic *
+  *** Bold and italic ***
 
+  1. 
 
 
 
